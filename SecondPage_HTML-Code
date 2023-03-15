@@ -1,0 +1,264 @@
+
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+  <meta charset="UTF-8">  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <title>Document</title>  
+  <link rel="stylesheet" href="./ecommerce2.css">  
+  <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">  
+</head>  
+<body>  
+  <header>  
+    <div class="logo"><a href="#">SHOPPERZ</a></div>  
+    <div class="try"><a><h3>Men</h3></a></div>
+    <div class="try1"><a><h3>Women</h3></a></div>
+    <div class="try2"><a><h3>Home</h3></a></div>
+    <div> <a> <img src="https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="cart" height ="70px", width="60px" ></a></div>
+    </div>  
+    <div class="search">  
+      <input type="text" placeholder="search products" id="input">  
+        
+    </div>  
+    <div class="heading">  
+      <ul>  
+        <li><a href="#" class="under">HOME</a></li>  
+        <li><a href="#" class="under">SHOP</a></li>  
+        <li><a href="#" class="under">OUR PRODUCTS</a></li>  
+        <li><a href="#" class="under">CONTACT US</a></li>  
+        <li><a href="#" class="under">ABOUT US</a></li>  
+      </ul>  
+    </div>  
+    <div class="heading1">  
+      <ion-icon name="menu" class="ham"></ion-icon>  
+    </div>  
+  </header>  
+  <section>  
+    <div class="section">  
+      <div class="section1">  
+        <div class="img-slider">  
+          <img src="https://www.pacificmalls.in/dehradun/images/Kids-banner-1.jpg"
+          alt="" class="img" width="1080px" height="400px"  > 
+          <img src="https://www.pacificmalls.in/dehradun/images/slider/143981583426079slider.jpg"
+          alt="" class="img" width="1080px" height="400px" >  
+          <img src="https://www.pacificmalls.in/tagore-garden/images/slider/383341577705188slider.jpg"  
+          alt="" class="img" width="1070px" height="400px" >     
+          <img src="https://www.tikli.in/wp-content/uploads/2018/08/midsss_1.jpg"
+          alt="" class="img" width="1080px"height="400px"  >   
+          <img src="https://images.thrillophilia.com/image/upload/s--Yq5lj_gc--/c_fill,g_center,h_642,q_auto,w_1280/f_auto,fl_strip_profile/v1/images/photos/000/374/986/original/1627961301_1563260567_cover_image.jpg.jpg.jpg"
+           alt="" class="img" width="1080px" height="400px"  >
+        </div>  
+      </div>  
+      <div class="section2">  
+        <div class="container">  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://m.media-amazon.com/images/I/712Fkr6S81L._UY879_.jpg"  
+                alt=""></div>  
+            <div class="name">SHOES</div>  
+            <div class="price">599 Rs</div>  
+            <div class="info">Mens's Casual Shoes</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img2"><img  
+                src="https://m.media-amazon.com/images/I/51hvszr9UvL.jpg"  
+                alt=""></div>  
+            <div class="name">MEN's T-SHIRT</div>  
+            <div class="price">300 Rs</div>  
+            <div class="info">Cotton Printed T shirt</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img3"><img  
+                src="https://media.gettyimages.com/id/895403704/photo/mens-clothing-isolated-on-white-background.jpg?s=612x612&w=gi&k=20&c=ig8iuuUFebrfFsPzpXRl17JdxxKg4cCCp8byg7-8wgI="  
+                alt=""></div>  
+            <div class="name">JEANS</div>  
+            <div class="price">2999 Rs</div>  
+            <div class="info">Denim Jeans</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://www.thebestvinylcutters.com/wp-content/uploads/2019/05/How-to-find-high-quality-blank-t-shirts-for-printing.jpg"  
+                alt=""></div>  
+            <div class="name">WATCH</div>  
+            <div class="price">3000 Rs</div>  
+            <div class="info">Fastrack Wrist Watch</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://rukminim1.flixcart.com/image/832/832/kwtkxow0/ethnic-set/j/g/s/l-es10a-nayanth-original-imag9extpgkvw29w.jpeg?q=70"  
+                alt=""></div>  
+            <div class="name">SMART PHONE</div>  
+            <div class="price">13599 Rs</div>  
+            <div class="info">Android Phone</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://m.media-amazon.com/images/I/51jwuItlp9L._UY879_.jpg"  
+                alt=""></div>  
+            <div class="name">TELEVISION</div>  
+            <div class="price">36999 Rs</div>  
+            <div class="info">Smart Assist One Plus TV</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://rukminim1.flixcart.com/image/832/832/xif0q/ethnic-set/h/y/o/m-d128-shiv-original-imagghtuzceywe3a.jpeg?q=70"  
+                alt=""></div>  
+            <div class="name">HOODIES</div>  
+            <div class="price">899 Rs</div>  
+            <div class="info">Casual Printed Hoodies</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://m.media-amazon.com/images/I/81bCiJ2-HvL._UX679_.jpg"  
+                alt=""></div>  
+            <div class="name">DINNER SET</div>  
+            <div class="price">1000 Rs</div>  
+            <div class="info">Complete Set of Dining </div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://m.media-amazon.com/images/I/81hDci5fD5L._UX679_.jpg"  
+                alt=""></div>  
+            <div class="name">BLANKETS</div>  
+            <div class="price">699 Rs</div>  
+            <div class="info">Woollen Blankets</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://m.media-amazon.com/images/I/71Iz1QGupgL._UX679_.jpg"  
+                alt=""></div>  
+            <div class="name">LAPTOP</div>  
+            <div class="price">56999 Rs</div>  
+            <div class="info">Asus Vivobook</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://m.media-amazon.com/images/I/61hG1v+j9wL._UX679_.jpg"  
+                alt=""></div>  
+            <div class="name">MICROWAVE</div>  
+            <div class="price">18999 Rs</div>  
+            <div class="info">Morphy Richards 23L</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://m.media-amazon.com/images/I/71vqB-siB3L._UX679_.jpg"  
+                alt=""></div>  
+            <div class="name">COFFEE MAKER</div>  
+            <div class="price">25000 Rs</div>  
+            <div class="info">Nescafe Coffee Maker</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/g/r/j/xl-lstr-skyblue-p-v-creations-original-imag9jgghrz3ynhf-bb.jpeg?q=70"  
+                alt=""></div>  
+            <div class="name">BED</div>  
+            <div class="price">80000 Rs</div>  
+            <div class="info">Wooden Chinese Bed</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://rukminim1.flixcart.com/image/432/518/xif0q/shirt/d/t/f/s-lstr-peacock-p-v-creations-original-imag9jggzzehk99f-bb.jpeg?q=70"  
+                alt=""></div>  
+            <div class="name">AIR CONDITIONER</div>  
+            <div class="price">35999 Rs</div>  
+            <div class="info">LG Air Conditioner</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/y/8/g/xl-c751-d-blue-dennis-lingo-original-imafnyksvpjybggz-bb.jpeg?q=70"  
+                alt=""></div>  
+            <div class="name">BOOK</div>  
+            <div class="price">200 Rs</div>  
+            <div class="info">Durjoy Dutta </div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://rukminim1.flixcart.com/image/832/832/kle24cw0/shirt/n/t/j/m-st412nb-majestic-man-original-imagygr4rstsjcce.jpeg?q=70"  
+                alt=""></div>  
+            <div class="name">BAG</div>  
+            <div class="price">799 Rs</div>  
+            <div class="info">Water Resistant Bag</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/m/7/d/38-cc-lg-mancrew-original-imag22b6gbj3m5ne-bb.jpeg?q=70"  
+                alt=""></div>  
+            <div class="name">SAREES</div>  
+            <div class="price">2500 Rs</div>  
+            <div class="info">Silk saree</div>  
+          </div>  
+          <div class="items">  
+            <div class="img img1"><img  
+                src="https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/v/9/o/36-t-131-trouser-baleno-green-aa-ad-av-original-imafwyf7ctgb4pfj-bb.jpeg?q=70"  
+                alt=""></div>  
+            <div class="name">WASHING MACHINE</div>  
+            <div class="price">45999 Rs</div>  
+            <div class="info">LG Semi Automatic Washing Machine</div>  
+          </div>  
+        </div>  
+      </div>  
+    </div>  
+  </section>  
+  
+  <a  class="v1" href="http://127.0.0.1:5500/login2.html">click here</a>
+  <footer>  
+    <div class="footer0">  
+      <h1>SHOPPERZ</h1>  
+    </div>  
+    <div class="footer1 ">  
+      Connect with us at<div class="social-media">  
+        <a href="#">  
+          <ion-icon name="logo-facebook"></ion-icon>  
+        </a>  
+        <a href="#">  
+          <ion-icon name="logo-linkedin"></ion-icon>  
+        </a>  
+        <a href="#">  
+          <ion-icon name="logo-youtube"></ion-icon>  
+        </a>  
+        <a href="#">  
+          <ion-icon name="logo-instagram"></ion-icon>  
+        </a>  
+        <a href="#">  
+          <ion-icon name="logo-twitter"></ion-icon>  
+        </a>  
+      </div>  
+    </div>  
+    <div class="footer2">  
+      <div class="product">  
+        <div class="heading">Products</div>  
+        <div class="div">Sell your Products</div>  
+        <div class="div">Advertise</div>  
+        <div class="div">Pricing</div>  
+        <div class="div">Product Buisness</div>  
+      </div>  
+      <div class="services">  
+        <div class="heading">Services</div>  
+        <div class="div">Return</div>  
+        <div class="div">Cash Back</div>  
+        <div class="div">Affiliate Marketing</div>  
+        <div class="div">Others</div>  
+      </div>  
+      <div class="Company">  
+        <div class="heading">Company</div>  
+        <div class="div">Complaint</div>  
+        <div class="div">Careers</div>  
+        <div class="div">Affiliate Marketing</div>  
+        <div class="div">Support</div>  
+      </div>  
+      <div class="Get Help">  
+        <div class="heading">Get Help</div>  
+        <div class="div">Help Center</div>  
+        <div class="div">Privacy Policy</div>  
+        <div class="div">Terms</div>  
+        <div class="div">Login</div>  
+      </div>  
+    </div>  
+    <div class="footer3">Copyright © <h4>SHOPPERZ</h4> 2021-2025</div>  
+  </footer>  
+  <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>  
+  <script src="./ecommerce.js"></script>  
+  <!--111-->
+</body>  
+</html>  

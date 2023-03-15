@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shopping cart</title>
+
+    <!--link to css-->
+  <link rel="stylesheet" href="shpping-card.css">
+  <!--box icons-->
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    
+<header>
+    <div class="nav container">
+        <a href="#" class="logo">FLEA-KART your local flea market</a>
+        <i class='bx bx-shopping-bag' id="cart-icon"></i>
+        <!--cart-->
+        <div class="cart">
+            <h2 class="cart-title">Your Cart</h2>
+         <!--content-->
+            <div class="cart-content">
+
+            </div>
+<!--Total--->
+<div class="total">
+    <div class="total-title">Total</div>
+    <div class="total-price">$0</div>
+</div>
+<!--but button-->
+<button type="button" class="btn-buy">Buy Now</button>
+ <!--cart close-->
+ <i class="bx bx-x" id="close-cart"></i>
+
+        </div>
+    </div>
+</header>
+
+<section class="shop container">
+    <h2 class="section-title">Shop Products</h2>
+     
+    <div class="shop-content">
+        <!--box 1-->
+        <div class="product-box">
+            <img src="product1.png" alt="" class="product-img">
+            <H2 class="product-title">LEHANGA</H2>
+            <span class="price">₹250</span>
+            <i class="bx bx-shopping-bag add-cart"></i>
+        </div>
+         <!--box 2-->
+        <div class="product-box">
+            <img src="https://m.media-amazon.com/images/I/712Fkr6S81L._UY879_.jpg" alt="" class="product-img">
+            <H2 class="product-title">SHIRT FLORAL</H2>
+            <span class="price">₹350</span>
+            <i class="bx bx-shopping-bag add-cart"></i>
+        </div>
+ <!--box 3-->
+        <div class="product-box">
+            <img src="https://m.media-amazon.com/images/I/81bCiJ2-HvL._UX679_.jpg" alt="" class="product-img">
+            <H2 class="product-title">TOP</H2>
+            <span class="price">₹350</span>
+            <i class="bx bx-shopping-bag add-cart"></i>
+        </div>
+         <!--box 4-->
+        <div class="product-box">
+            <img src="https://m.media-amazon.com/images/I/51jwuItlp9L._UY879_.jpg" alt="" class="product-img">
+            <H2 class="product-title">DRESS</H2>
+            <span class="price">₹400</span>
+            <i class="bx bx-shopping-bag add-cart"></i>
+        </div>
+ <!--box 5-->
+        <div class="product-box">
+            <img src="https://rukminim1.flixcart.com/image/832/832/kle24cw0/shirt/n/t/j/m-st412nb-majestic-man-original-imagygr4rstsjcce.jpeg?q=70" alt="" class="product-img">
+            <H2 class="product-title">SHIRT</H2>
+            <span class="price">₹450</span>
+            <i class="bx bx-shopping-bag add-cart"></i>
+        </div>
+ <!--box 6-->
+        <div class="product-box">
+            <img src="https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/m/7/d/38-cc-lg-mancrew-original-imag22b6gbj3m5ne-bb.jpeg?q=70" alt="" class="product-img">
+            <H2 class="product-title"> TROUSER</H2>
+            <span class="price">₹500</span>
+            <i class="bx bx-shopping-bag add-cart"></i>
+        </div>
+ <!--box 7-->
+        <div class="product-box">
+            <img src="https://m.media-amazon.com/images/I/81hDci5fD5L._UX679_.jpg" alt="" class="product-img">
+            <H2 class="product-title">KIDS T SHIRT</H2>
+            <span class="price">₹550</span>
+            <i class="bx bx-shopping-bag add-cart"></i>
+        </div>
+         <!--box 8-->
+        <div class="product-box">
+            <img src="https://m.media-amazon.com/images/I/61hG1v+j9wL._UX679_.jpg" alt="" class="product-img">
+            <H2 class="product-title">KIDS </H2>
+            <span class="price">₹675</span>
+            <i class="bx bx-shopping-bag add-cart"></i>
+        </div>
+
+    </div>
+</section>
+  
+<!--link to js-->
+<script src="shopping-cart.js"></script>
+<!---->
+
+</body>
+</html>

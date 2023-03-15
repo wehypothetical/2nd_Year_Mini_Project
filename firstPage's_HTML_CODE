@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="2nd-bootsrap.css">
+    <title>2nd-year-project</title>
+  </head>
+  <body>
+
+<nav class="navbar">
+        <!-- <div class="burger">
+            <div class="layer1"></div>
+            <div class="layer2"></div>
+            <div class="layer3"></div>
+        </div> -->
+
+        <div class="logo">
+         <span class="logo-text"> FLEA-KART</span>
+        </div>
+
+        <div class="menubar">
+            <ul class="list">
+              <li class="list-items"><a href="#">Home</a></li>
+              <li class="list-items"><a href="#">courses</a></li>  
+               <!--<li class="list-items"><a href="#">prisings</a></li> -->  
+               <li class="list-items"><a href="#">about us</a></li>    
+               <li><input class="Scr" type="text" placeholder="search products..." id="input"></li>  
+            </ul>
+        </div>
+
+        <!-- <div class="cart">
+           <i class="fa fa-shopping-cart fa-1x"></i> 
+        <div class="number-of-items"><span class="noi">0</span></div>
+        </div> -->
+    </nav> 
+
+    <!-- <header>  
+      <div class="logo"><a href="#">FLEA-KART</a></div>  
+      <div class="try"><a><h5>LOCAL STORES</h5></a></div>
+      <div class="try1"><a><h5>SHOPS</h5></a></div>
+      <div class="try2"><a><h5>Home</h5></a></div>
+     
+      </div>  
+      <div class="search">  
+        <input class="b1" type="text" placeholder="search products..." id="input">  
+        
+        <!yha photo hai-->
+        <!-- <div > <a class="t1"> <img src="https://images.pexels.com/photos/264547/pexels-photo-264547.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="cart" height ="60px", width="60px" ></a>
+         </div> -->
+         
+         <!--icon used kiya hai yaha mene-->
+
+         <!--yha par icon hai shop-->
+        <!-- <div class="cart">
+           <i class="fa fa-shopping-cart fa-1x"></i>  -->
+        <!-- <div class="number-of-items"><span class="noi">0</span></div> -->
+        <!-- </div>
+
+          
+      </div>   -->
+      <!-- <div class="heading">  
+        <ul>  
+          <li><a href="#" class="under">HOME</a></li>  
+          <li><a href="#" class="under">SHOP</a></li>  
+          <li><a href="#" class="under">OUR PRODUCTS</a></li>  
+          <li><a href="#" class="under">CONTACT US</a></li>  
+          <li><a href="#" class="under">ABOUT US</a></li>  
+        </ul>  
+      </div>   -->
+      <!-- <div class="heading1">  
+        <ion-icon name="menu" class="ham"></ion-icon>  
+      </div>  
+    </header>   -->
+  <!--upper ka hai -->
+  <section>  
+    <div class="section">  
+      <div class="section1">  
+        <div class="img-slider">  
+          <img src="https://www.pacificmalls.in/dehradun/images/Kids-banner-1.jpg"
+          alt="" class="img" width="1080px" height="400px"  > 
+          <img src="https://www.pacificmalls.in/dehradun/images/slider/143981583426079slider.jpg"
+          alt="" class="img" width="1080px" height="400px" >  
+          <img src="https://www.pacificmalls.in/tagore-garden/images/slider/383341577705188slider.jpg"  
+          alt="" class="img" width="1070px" height="400px" >     
+          <img src="https://www.tikli.in/wp-content/uploads/2018/08/midsss_1.jpg"
+          alt="" class="img" width="1080px"height="400px"  >   
+          <img src="https://images.thrillophilia.com/image/upload/s--Yq5lj_gc--/c_fill,g_center,h_642,q_auto,w_1280/f_auto,fl_strip_profile/v1/images/photos/000/374/986/original/1627961301_1563260567_cover_image.jpg.jpg.jpg"
+           alt="" class="img" width="1080px" height="400px"  >
+        </div>  
+      </div>  
+      </div>
+    </section>
+    <!-- yhai FIRST div start hoga-->
+    <div class="f1">
+      <div>
+     <img class="faa1" src="https://content3.jdmagicbox.com/comp/navi-mumbai/y2/022pxx22.xx22.101224121136.k3y2/catalogue/saheli-exclusive-ladies-wear-airoli-navi-mumbai-ladies-boutique-3extzn.jpg?clr=29333d" alt="" width="300px" height="380">
+
+     <img class="faa2"  src="https://imgmedia.lbb.in/media/2019/09/5d8477af5ab59911b18397a3_1568962479625.jpg" alt="" width="300px" height="380">
+    
+     <img class="faa3" src="https://imgmedia.lbb.in/media/2017/06/5936c7800bcd663d10257619_580321ec78c3bd0cbc5847c0_1496762240144.jpg" alt="" width="300px" height="380">
+   
+   
+     <img class="faa4" src="https://imgmedia.lbb.in/media/2019/06/5cf4e004b3071f550ed3c1ae_1559552004234.jpeg" alt="" width="300px" height="380">
+    
+  </div class="baap">
+    <button class="btn1"> <a class="fa" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+    
+    <button class="btn2"><a class="fb" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+    
+    <button class="btn3"><a class="fc" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+    
+    <button class="btn4"><a class="fd" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+    
+</div>
+
+<!--yha   second div hai-->
+<div class="f1">
+  <div>
+ <img  class="faa1" src="https://content.jdmagicbox.com/comp/delhi/h5/011pxx11.xx11.110407112632.h5h5/catalogue/a-k-collection-new-ashok-nagar-delhi-readymade-garment-retailers-7360fl403e.jpg?clr=" alt="" width="300px" height="380">
+
+ <img   class="faa2" src="https://travelogyindia.b-cdn.net/storage/app/upload/delhi-sarojini-market.jpg" alt="" width="300px" height="380">
+
+ <img  class="faa3" src="https://thumbs.dreamstime.com/b/arpora-night-market-goa-india-february-227661394.jpg" alt="" width="300px" height="380">
+
+ <img  class="faa4" src="https://towno.in/other_assets/ckeditor_assets/pictures/2253/content_shopping_in_dehradun.jpg" alt="" width="300px" height="380">
+
+</div>
+<button class="btn1"><a class="fa" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+
+<button class="btn2"><a class="fb" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+
+<button class="btn3"><a class="fc" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+
+<button class="btn4"><a class="fd" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+
+</div>
+
+<!--YHA SE THIRD DIV HAI-->
+<div class="f1">
+  <div>
+ <img  class="faa1" src="https://akm-img-a-in.tosshub.com/aajtak/images/story/202207/12-13_2-sixteen_nine.jpg?size=948:533" alt="" width="300px" height="380">
+
+ <img  class="faa2" src="https://c8.alamy.com/comp/2KAWFNT/colourful-multicultural-shop-front-in-southall-greater-london-england-uk-2KAWFNT.jpg" alt="" width="300px" height="380">
+
+ <img  class="faa3" src="https://static-blog.treebo.com/blog/wp-content/uploads/2018/03/Webp.net-compress-image-6-13.jpg" alt="" width="300px" height="380">
+
+ <img class="faa4" src="https://akm-img-a-in.tosshub.com/aajtak/images/story/202207/12-13_2-sixteen_nine.jpg?size=948:533" alt="" width="300px" height="380">
+
+</div>
+<button class="btn1"><a class="fa" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+
+<button class="btn2"><a class="fb" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+
+<button class="btn3"><a class="fc" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+
+<button class="btn4"><a class="fd" href="http://127.0.0.1:5501/check.html">Veiw all shop</a></button>
+</div>
+    <!--yha se last ka start hua hai--> 
+    
+    <footer>  
+      <div class="footer0">  
+        <h1>E-commerce</h1>  
+      </div>  
+      <div class="footer1 ">  
+        Connect with us at<div class="social-media">  
+          <a href="#">  
+            <ion-icon name="logo-facebook"></ion-icon>  
+          </a>  
+          <a href="#">  
+            <ion-icon name="logo-linkedin"></ion-icon>  
+          </a>  
+          <a href="#">  
+            <ion-icon name="logo-youtube"></ion-icon>  
+          </a>  
+          <a href="#">  
+            <ion-icon name="logo-instagram"></ion-icon>  
+          </a>  
+          <a href="#">  
+            <ion-icon name="logo-twitter"></ion-icon>  
+          </a>  
+        </div>  
+      </div>  
+      <div class="footer2">  
+        <div class="product">  
+          <div class="heading">Products</div>  
+          <div class="div">Sell your Products</div>  
+          <div class="div">Advertise</div>  
+          <div class="div">Pricing</div>  
+          <div class="div">Product Buisness</div>  
+        </div>  
+        <div class="services">  
+          <div class="heading">Services</div>  
+          <div class="div">Return</div>  
+          <div class="div">Cash Back</div>  
+          <div class="div">Affiliate Marketing</div>  
+          <div class="div">Others</div>  
+        </div>  
+        <div class="Company">  
+          <div class="heading">Company</div>  
+          <div class="div">Complaint</div>  
+          <div class="div">Careers</div>  
+          <div class="div">Affiliate Marketing</div>  
+          <div class="div">Support</div>  
+        </div>  
+        <div class="Get Help">  
+          <div class="heading">Get Help</div>  
+          <div class="div">Help Center</div>  
+          <div class="div">Privacy Policy</div>  
+          <div class="div">Terms</div>  
+          <div class="div">Login</div>  
+        </div>  
+      </div>  
+      <div class="footer3">Copyright © <h4>FLEA-KART</h4> 2021-2025</div>  
+    </footer>
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+    -->
+
+    <!--->
+  </body>
+</html>
